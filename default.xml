@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+   <remote  name="git"  fetch="ssh://git@172.28.184.28/data/test/github/" />
+    <project path="ADIT-JV/linux-v4.14" name="linux-v4.14" groups="git" remote="github" revision="staging-414" force-path="true" />
+
+
+</manifest>
