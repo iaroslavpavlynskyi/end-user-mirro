@@ -3,7 +3,7 @@
 
    <remote  name="github"  fetch="ssh://git@172.28.184.28/data/test/github/" />
    
- <project path="ADIT-JV/linux-v4.14" name="ADIT-JV/linux-v4.14" groups="git" remote="github" revision="remotes/github/staging-414" />
+<!-- <project path="ADIT-JV/linux-v4.14" name="ADIT-JV/linux-v4.14" groups="git" remote="github" revision="remotes/github/staging-414" /> -->
  <project path="ADIT-JV/linux-v4.14" name="ADIT-JV/linux-v4.14" groups="git" remote="github" revision="refs/remotes/gl/android-v5.1.2/integration" force-path="true" />
 
 
